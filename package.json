@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "depcheck": "node depcheck.js"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/date-fns": "^1.4.3"
+  },
+  "devDependencies": {
+    "depcheck": "^1.4.0",
+    "depcheck-special-nuxt": "^1.2.2"
+  }
+}
